@@ -1,0 +1,23 @@
+﻿Build started 12/24/2015 9:58:52 PM.
+     1>Project "C:\Users\eric\Dropbox\Documents\School\programming\C++\schooltime_library\schooltime_library\schooltime_library.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt schooltime.cpp
+         schooltime.cpp
+     1>c:\users\eric\dropbox\documents\school\programming\c++\schooltime_library\schooltime_library\schooltime.cpp(150): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\eric\dropbox\documents\school\programming\c++\schooltime_library\schooltime_library\schooltime.cpp(287): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\eric\dropbox\documents\school\programming\c++\schooltime_library\schooltime_library\schooltime.cpp(441): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\eric\dropbox\documents\school\programming\c++\schooltime_library\schooltime_library\schooltime.cpp(570): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\eric\dropbox\documents\school\programming\c++\schooltime_library\schooltime_library\schooltime.cpp(607): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\eric\dropbox\documents\school\programming\c++\schooltime_library\schooltime_library\schooltime.cpp(615): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\eric\dropbox\documents\school\programming\c++\schooltime_library\schooltime_library\schooltime.cpp(632): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\eric\dropbox\documents\school\programming\c++\schooltime_library\schooltime_library\schooltime.cpp(640): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\eric\dropbox\documents\school\programming\c++\schooltime_library\schooltime_library\schooltime.cpp(652): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\eric\dropbox\documents\school\programming\c++\schooltime_library\schooltime_library\schooltime.cpp(661): warning C4018: '<' : signed/unsigned mismatch
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\eric\Dropbox\Documents\School\programming\C++\schooltime_library\Debug\schooltime_library.lib" /NOLOGO Debug\schooltime.obj
+         schooltime_library.vcxproj -> C:\Users\eric\Dropbox\Documents\School\programming\C++\schooltime_library\Debug\schooltime_library.lib
+     1>Done Building Project "C:\Users\eric\Dropbox\Documents\School\programming\C++\schooltime_library\schooltime_library\schooltime_library.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:13.90
